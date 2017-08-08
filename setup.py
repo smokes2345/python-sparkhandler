@@ -7,5 +7,5 @@ setup(name='python-sparkhandler',
       author='Matt Davidson',
       author_email='smokes2345@gmail.com',
       license='GPLv3',
-      packages=['sparkhandler'],
+      packages=['loghandlers'],
       zip_safe=True)
